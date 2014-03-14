@@ -1,0 +1,140 @@
+body{
+  padding-top: 50px;
+  background-image:url('../images/bg.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-position:center; 
+}
+
+body p{
+font-size:17px;
+}
+
+#outer-bg{
+opacity:0.9;
+}
+
+#background{
+background-color:white;
+padding-left:2em;
+padding-right:2em;
+}
+
+.splash {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.portfolio-image img{
+max-width:265px;
+}
+
+#portfolio-expand{
+display:block;
+}
+
+#item1{
+display:none;
+}
+
+#item2{
+display:none;
+}
+
+#item3{
+display:none;
+}
+dd{
+display:none;
+}
+
+.project-image{
+float:left;
+margin-right:20px;
+}
+.project-strap{
+float:left;
+width:660px;
+height:106px;
+}
+.project-description{
+margin-top:140px;
+}
+
+li{
+font-size:17px;
+}
+dt{
+font-size:18px;
+margin-top:35px;
+margin-bottom:15px;
+}
+h2{
+margin-top:30px;
+}
+#exp-item1glyphup{
+display:none;
+}
+#exp-item2glyphup{
+display:none;
+}
+#exp-item3glyphup{
+display:none;
+}
+#about-me{
+text-align:center;
+margin-bottom:100px;
+}
+#skills{
+margin-bottom:100px;
+}
+#experience{
+margin-bottom:100px;
+}
+#my-work{
+margin-bottom:50px;
+}
+
+#portfolio-flip{
+margin:auto;
+}
+
+dt {
+cursor:pointer;
+}
+
+.portfolio-image{
+margin-bottom:50px;
+}
+
+.social{
+margin-bottom:25px;
+}
+.social img{
+max-height:36px;
+}
+
+.mailicon img{
+max-height:40px;
+}
+
+.social img:hover{
+opacity:0.2;
+}
+
+.portfolio-image{
+cursor:pointer;
+}
+#item1{
+cursor:pointer;
+}
+
+#item2{
+cursor:pointer;
+}
+
+#item3{
+cursor:pointer;
+}
+
+
